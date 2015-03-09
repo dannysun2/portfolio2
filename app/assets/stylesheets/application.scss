@@ -1,0 +1,16 @@
+@import 'bootstrap';
+@import url(https://fonts.googleapis.com/css?family=Lato:100,400,700);
+
+html body {
+   font-family: Lato;
+   background: #fff;
+}
+
+.top {
+      -moz-box-shadow: inset 0 -16px 29px #cfcfcf;
+      -webkit-box-shadow: inset 0 -16px 29px #cfcfcf;
+      box-shadow: inset 0 -16px 29px #BABABA;
+      background: url(https://raw.githubusercontent.com/dannysun725/portfolio2/master/app/assets/images/background.jpg)  no-repeat center center fixed;;
+      background-size: cover;
+      height: 1500px;
+}
